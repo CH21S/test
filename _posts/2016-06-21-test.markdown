@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Test"
+title:  "UK goes to polls in EU referendum"
 date:   2016-06-21 01:24:23 +0000
-categories: jekyll update
+categories: eu referendum
 ---
 Britain is set to go to the polls in an historic referendum on whether the country should remain a member of the European Union or leave.
 
@@ -12,11 +12,11 @@ An estimated 46,499,537 people are entitled to take part in the vote - a record 
 
 It is only the third nationwide referendum in UK history and comes after a four-month battle for votes between the Leave and Remain campaigns.
 
-In common with other broadcasters, the BBC is limited in what it can report while polls are open but you can follow the results as they come in across the BBC after polls close on Thursday evening.
+>In common with other broadcasters, the BBC is limited in what it can report while polls are open but you can follow the results as they come in across the BBC after polls close on Thursday evening.
 
 :: How to vote on polling day
->> Polling day guide: What to watch for
->> How the BBC reports EU referendum polling day
+* Polling day guide: What to watch for
+> How the BBC reports EU referendum polling day
  
 
 The referendum ballot paper asks the following question: "Should the United Kingdom remain a member of the European Union or leave the European Union?"
