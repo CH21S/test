@@ -1,6 +1,6 @@
 title: Test test
-url: ""https://ch21s.github.io/test"
+url: "https://ch21s.github.io/test"
 description: test,test
 gems: [jekyll-paginate]
 paginate: 10
-paginate_path: "/page/:num"
+paginate_path: "https://ch21s.github.io/test/page/:num"
