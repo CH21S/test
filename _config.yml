@@ -4,4 +4,4 @@ description: test,test
 baseurl: "https://ch21s.github.io/test"
 gems: [jekyll-paginate]
 paginate: 10
-paginate_path: "/:num"
+paginate_path: "/test/:num"
