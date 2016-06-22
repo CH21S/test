@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<div class=q>
+{% for post in paginator.posts %}
+<div class=p>
+<a class=t href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+{{ post.excerpt }}
+{% if post.excerpt != post.content %}
+<p class=z><a class=u href="{{ site.baseurl }}{{ post.url }}">more  →</a></p>
+</div>
+<p class=b></p>
+{% endif %}
+{% endfor %}
+</div>
