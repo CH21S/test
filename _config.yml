@@ -3,5 +3,4 @@ url: "https://test.com"
 description: test,test
 gems: [jekyll-paginate]
 paginate: 10
-paginate_path: ":num"
-
+paginate_path: "num"
