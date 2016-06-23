@@ -2,7 +2,6 @@
 layout: post
 title:  "UK goes to polls in EU referendum"
 date:   2016-06-21 01:24:23 +0000
-categories: eu referendum
 ---
 Britain is set to go to the polls in an historic referendum on whether the country should remain a member of the European Union or leave.
 
